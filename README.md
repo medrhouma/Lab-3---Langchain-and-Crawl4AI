@@ -9,8 +9,7 @@ Ce projet vise à développer une solution complète permettant de crawler des d
 - Crawler des pages web dynamiques et récupérer leur contenu pertinent.
 - Structurer les données collectées (ex : textes, liens, balises).
 - Intégrer Langchain pour utiliser des chaînes LLM (modèles de langage).
-- Créer une API REST avec FastAPI pour interagir avec les données extraites.
-- Développer une interface utilisateur simple avec Streamlit pour visualiser et interroger les données.
+oger les données.
 
 ## 2. Crawl4AI et Langchain
 
