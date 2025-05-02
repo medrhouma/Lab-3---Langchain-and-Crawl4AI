@@ -42,15 +42,9 @@ Ce projet intègre **Crawl4AI**, un outil de scraping intelligent, avec **Langch
 ```bash
 pip install -r requirements.txt
 ```
-
-2. Lancer FastAPI :  
+2.Run
 ```bash
-uvicorn main:app --reload
-```
-
-3. Lancer Streamlit :  
-```bash
-streamlit run streamlit_app/app.py
+python file-name
 ```
 
 ## 6. Auteurs
