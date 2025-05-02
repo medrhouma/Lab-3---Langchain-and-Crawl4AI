@@ -30,12 +30,10 @@ Ce projet intègre **Crawl4AI**, un outil de scraping intelligent, avec **Langch
 
 ```
 📦project-root
- ┣ 📂app                ← Code backend FastAPI
- ┣ 📂streamlit_app      ← Interface utilisateur
- ┣ 📂crawler            ← Scripts Crawl4AI
+ ┣ 📂Langchain               
+ ┣ 📂Crawl4AI            
  ┣ 📜README.md
- ┣ 📜requirements.txt
- ┗ 📜main.py
+
 ```
 
 ## 5. Lancement du projet
