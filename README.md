@@ -1,6 +1,5 @@
 ﻿# Lab-3---Langchain-and-Crawl4AI
-    # Projet d'Intégration : IA et Données Web avec FastAPI, Langchain & Streamlit
-
+  
 ## Présentation
 
 Ce projet vise à développer une solution complète permettant de crawler des données web, les structurer, les traiter à l’aide d’une API FastAPI et les explorer via une interface utilisateur Streamlit. L’objectif est de montrer l’intégration fluide entre extraction, traitement et visualisation des données en s’appuyant sur les outils modernes de l’écosystème IA et Python.
