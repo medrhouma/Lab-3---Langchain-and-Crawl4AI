@@ -59,4 +59,4 @@ Crawled content is converted to Markdown, ideal for downstream tasks like summar
 
 ---
 
-**Made with ❤️ using [Crawl4AI](https://github.com/crawl4ai/crawl4ai)**.
+**Made with ❤️ using medrhouma**.
