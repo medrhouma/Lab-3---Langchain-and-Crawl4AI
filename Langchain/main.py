@@ -12,6 +12,8 @@ chat_model = ChatGroq(
       model="llama3-70b-8192",
       temperature=0.7,  # Slightly higher temperature for more creative responses
       max_tokens=500,
+
+      
 )
 
 # Define the system message for pirate personality with emojis
